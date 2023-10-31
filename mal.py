@@ -4,7 +4,7 @@ import secrets
 
 
 CLIENT_ID = '12780ede8362c9446a68bd14e2174b0b'
-CLIENT_SECRET = '32ff9e4ae7dcb30b371ec235c28b40531d0dc5772b6e4722e1133de8e5286da0'
+##CLIENT_SECRET = PUT SECRET KEY HERE
 
 
 # 1. Generate a new Code Verifier / Code Challenge.
