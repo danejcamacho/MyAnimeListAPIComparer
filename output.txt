@@ -1,0 +1,138 @@
+Authorise your application by clicking here: https://myanimelist.net/v1/oauth2/authorize?response_type=code&client_id=12780ede8362c9446a68bd14e2174b0b&code_challenge=auCNzajfQDEd3Xg6hSULX9EpggxzaRz_1TRIbOAdk1JW0uvMxllKXozMOeAlTSWno7TWTbnbhE1I9_FJeU0XturG7ffy1dvbzJET-WKJ38tV4u3CIeNmxGhjgTSsOA5G
+
+Copy-paste the Authorisation Code: Token generated successfully!
+Token saved in "token.json"
+
+>>> Greetings biggsthebulldog! <<<
+
+              *** MAL API MAIN MENU ***
+              1. Print My Info
+              2. Print My Suggested Anime
+              3. Print Another User's Animelist[ALL]
+              4. Print My Animelist[ALL]
+              5. Compare two plan to watch lists
+              
+              type 'quit' to exit...
+              
+              
+Enter menu choice: How many suggestions: Love Live! The School Idol Movie
+FLCL
+Kimi to Boku. 2
+Machikado Mazoku: 2-choume
+Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
+
+              *** MAL API MAIN MENU ***
+              1. Print My Info
+              2. Print My Suggested Anime
+              3. Print Another User's Animelist[ALL]
+              4. Print My Animelist[ALL]
+              5. Compare two plan to watch lists
+              
+              type 'quit' to exit...
+              
+              
+Enter menu choice: Input a user: "Oshi no Ko"
+Ansatsu Kyoushitsu
+Ansatsu Kyoushitsu 2nd Season
+Bleach: Sennen Kessen-hen
+Blue Lock
+Bocchi the Rock!
+Boku dake ga Inai Machi
+Boku no Hero Academia
+Boku no Hero Academia 2nd Season
+Boku no Hero Academia 3rd Season
+Boku no Hero Academia 4th Season
+Boku no Hero Academia 5th Season
+Boku no Hero Academia 6th Season
+Chainsaw Man
+Code Geass: Hangyaku no Lelouch
+Code Geass: Hangyaku no Lelouch R2
+Cyberpunk: Edgerunners
+Death Note
+Fullmetal Alchemist: Brotherhood
+Haikyuu!!
+Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou
+Haikyuu!! Second Season
+Haikyuu!! To the Top
+Haikyuu!! To the Top Part 2
+Hajime no Ippo
+Hajime no Ippo: New Challenger
+Hajime no Ippo: Rising
+Horimiya
+Hunter x Hunter (2011)
+Jigokuraku
+JoJo no Kimyou na Bouken (TV)
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze
+JoJo no Kimyou na Bouken Part 6: Stone Ocean
+JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2
+JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3
+Jujutsu Kaisen
+Jujutsu Kaisen 0 Movie
+K-On!
+Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+Kaguya-sama wa Kokurasetai: Ultra Romantic
+Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
+Kanojo, Okarishimasu
+Kimetsu no Yaiba
+Kimetsu no Yaiba: Yuukaku-hen
+Kimi no Na wa.
+Kono Subarashii Sekai ni Shukufuku wo!
+Made in Abyss
+Mob Psycho 100
+Mob Psycho 100 II
+Mob Psycho 100 III
+Mushoku Tensei: Isekai Ittara Honki Dasu
+Naruto
+Naruto: Shippuuden
+One Piece
+One Punch Man
+One Punch Man 2nd Season
+Ouran Koukou Host Club
+Ousama Ranking
+Re:Zero kara Hajimeru Isekai Seikatsu
+Shingeki no Kyojin Season 2
+Shingeki no Kyojin Season 3
+Shingeki no Kyojin Season 3 Part 2
+Shingeki no Kyojin: The Final Season
+Shingeki no Kyojin: The Final Season Part 2
+Skip to Loafer
+Space☆Dandy
+Spy x Family
+Spy x Family Part 2
+Tokyo Ghoul
+Tokyo Revengers
+Tomo-chan wa Onnanoko!
+Toradora!
+Vinland Saga
+Vivy: Fluorite Eye's Song
+Yakusoku no Neverland
+Yakusoku no Neverland 2nd Season
+Yuru Camp△
+
+              *** MAL API MAIN MENU ***
+              1. Print My Info
+              2. Print My Suggested Anime
+              3. Print Another User's Animelist[ALL]
+              4. Print My Animelist[ALL]
+              5. Compare two plan to watch lists
+              
+              type 'quit' to exit...
+              
+              
+Enter menu choice: Input a username: Input another username: 
+***Plan To Watch in common***
+
+              *** MAL API MAIN MENU ***
+              1. Print My Info
+              2. Print My Suggested Anime
+              3. Print Another User's Animelist[ALL]
+              4. Print My Animelist[ALL]
+              5. Compare two plan to watch lists
+              
+              type 'quit' to exit...
+              
+              
+Enter menu choice: Quitting Application...
